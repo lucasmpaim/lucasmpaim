@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- [![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmpaim&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmpaim&theme=radical&hide=jupyter%20notebook,tex,html,shell)](#) 
+ [![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmpaim&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmpaim&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
 ---|--
 
 
