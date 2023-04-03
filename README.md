@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning machine learning for automatic music transcription for accordion
-- 🔭 I'm currently working on [Bari Bank](https://bancobari.com.br/) with iOS Development. 
+- 🔭 I'm currently working on [Goodones](https://www.goodones.app/) with iOS Development. 
 
 
 <!--
