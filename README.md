@@ -1,13 +1,9 @@
-### Hi there 👋
-
  [![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmpaim&theme=radical)](#) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmpaim&theme=radical&hide=jupyter%20notebook,tex,html,shell,c%23,css,ruby)](#) 
----|--
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=lucasmpaim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-
-
+ 
 - 🌱 I’m currently learning machine learning for automatic music transcription for accordion
 - 🔭 I'm currently working on [Goodones](https://www.goodones.app/) with iOS Development. 
 
